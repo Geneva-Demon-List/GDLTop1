@@ -106,8 +106,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h2>Also check out the Geneva Demonlist by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
-                    <h2>The Challengelist can also be found by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
+                    <h2>Go back to the Main List by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
                         Submission MUST be done by somebody who lives within Geneva, Ohio.
@@ -131,10 +130,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List ( Below Top 200 ), records are no longer accepted. Sorry!
-                    </p>
-                    <p>
-                        All Completions here MUST be on Geometry Dash Lite, and on mobile. Using the full game or Android emulators will not be allowed on this list.
+                        All submissions here MUST be harder than the current Top 1 on the Main List.
                     </p>
                 </div>
             </div>
