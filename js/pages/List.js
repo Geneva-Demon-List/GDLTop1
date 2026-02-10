@@ -54,6 +54,10 @@ export default {
                             <div class="type-title-sm">Level Difficulty</div>
                             <p>{{ level.difficulty || 'N/A' }}</p>
                         </li>
+                        <li>
+                            <div class="type-title-sm">Future GDL Verifier</div>
+                            <p>{{ level.gdlverify || 'N/A' }}</p>
+                        </li>
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 100"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
