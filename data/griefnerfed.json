@@ -2,7 +2,7 @@
     "id": "unreleased",
     "name": "GRIEF Nerfed",
     "author": "n/a",
-    "creators":,
+    "creators":[],
     "verifier": "N/A",
     "gdlverify": "EarthMoth",
     "ogverify": "N/A",
@@ -18,3 +18,4 @@
         }
     ]
 }
+
