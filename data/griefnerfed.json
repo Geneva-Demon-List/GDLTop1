@@ -1,0 +1,20 @@
+{
+    "id": "unreleased",
+    "name": "GRIEF Nerfed",
+    "author": "n/a",
+    "creators":,
+    "verifier": "N/A",
+    "gdlverify": "EarthMoth",
+    "ogverify": "N/A",
+    "verification": "https://youtu.be/CXvRdZvSC6w",
+    "percentToQualify": "15",
+    "difficulty": "Unrated Extreme Demon",
+    "records": [
+        {
+             "user": "earthmoth",
+            "link": "https://youtu.be/_ArSjgKoXbg",
+            "percent": 21,
+            "hz": 480
+        }
+    ]
+}
