@@ -135,6 +135,9 @@ export default {
                     <p>
                         All submissions here MUST be harder than the current Top 1 on the Main List.
                     </p>
+                    <p>
+                        If you use Mega Hack, you must set your ruleset to Demonlist. This also means that if the GD Demonlist does not allow a hack to be turned on, the GDL doesn't either.
+                    </p>
                 </div>
             </div>
         </main>
