@@ -109,34 +109,10 @@ export default {
                     <h2>Go back to the Main List by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Submission MUST be done by somebody who lives within Geneva, Ohio.
+                        All MAIN LIST Rules apply here.
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed)
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. If the level is new to the list, this rule is invalidated.
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
-                    </p>
-                    <p>
-                        The recording must have audible click sounds OR a handcam or your record will not be accepted.
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        All submissions here MUST be harder than the current Top 1 on the Main List.
-                    </p>
-                    <p>
-                        If you use Mega Hack, you must set your ruleset to Demonlist. This also means that if the GD Demonlist does not allow a hack to be turned on, the GDL doesn't either.
+                        The world record tab on every level works as follows: Once sombody beats the top WR, the % to qualify gets moved up. Once the future 1 top were to get GDL Verified, precent to qualify is set to 101% and is kept for legacy and nostalgic purposes.
                     </p>
                 </div>
             </div>
