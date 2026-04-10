@@ -112,7 +112,7 @@ export default {
                         All MAIN LIST Rules apply here.
                     </p>
                     <p>
-                        The world record tab on every level works as follows: Once sombody beats the top WR, the % to qualify gets moved up. Once the future 1 top were to get GDL Verified, precent to qualify is set to 101% and is kept for legacy and nostalgic purposes.
+                        The records tab on every level works as follows: Once sombody beats the top WR, the % to qualify gets moved up. Once the future 1 top were to get GDL Verified, precent to qualify is set to 101% and is kept for legacy and nostalgic purposes.
                     </p>
                 </div>
             </div>
