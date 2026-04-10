@@ -7,13 +7,13 @@
     "gdlverify": "wRocket",
     "ogverify": "Riot",
     "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
-    "percentToQualify": "40",
+    "percentToQualify": "101",
     "difficulty": "Extreme Demon",
     "records": [
       {
             "user": "wRocket",
-            "link": "https://www.youtube.com/watch?v=LnvLZejrUMU",
-            "percent": 44,
+            "link": "https://youtu.be/ddE14NtKFZE",
+            "percent": 100,
             "hz": 240
         }
     ]
