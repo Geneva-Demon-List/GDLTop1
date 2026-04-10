@@ -114,6 +114,9 @@ export default {
                     <p>
                         The records tab on every level works as follows: Once sombody beats the top WR, the % to qualify gets moved up. Once the future 1 top were to get GDL Verified, precent to qualify is set to 101% and is kept for legacy and nostalgic purposes.
                     </p>
+                    <p>
+                        Elaborating further, if a level has the ★ symbol next to its name, it means that it has already been GDL Verified and will not accept any Future Top 1 records.
+                    </p>
                 </div>
             </div>
         </main>
