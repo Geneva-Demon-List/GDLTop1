@@ -106,7 +106,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h2>Go back to the Main List by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
+                    <h2>Go back to the Main List by <a href="https://genevalist.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
                         All MAIN LIST Rules apply here.
