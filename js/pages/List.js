@@ -112,10 +112,7 @@ export default {
                         All MAIN LIST Rules apply here.
                     </p>
                     <p>
-                        The records tab on every level works as follows: Once sombody beats the top WR, the % to qualify gets moved up. Once the future 1 top were to get GDL Verified, precent to qualify is set to 101% and is kept for legacy and nostalgic purposes.
-                    </p>
-                    <p>
-                        Elaborating further, if a level has the ★ symbol next to its name, it means that it has already been GDL Verified and will not accept any Future Top 1 records.
+                        All levels on this list must be harder than the current Main List Top 1. Levels with a ★ are Legacy levels and are no longer maintained nor are records accepted, Legacy levels were either formerly Top 1 difficulty, or were GDL Verified and became actual Top 1s. Records submitted to levels that are not legacy must be at a higher percentage than the current top record, until it becomes 100%.
                     </p>
                 </div>
             </div>
