@@ -115,7 +115,7 @@ export default {
                         New levels to this list must be harder than the current Main List Top 1. Levels with a ★ are Legacy levels and are no longer maintained nor are records accepted, Legacy levels were GDL Verified and became actual Top 1s. Records submitted to levels that are not legacy must be at a higher percentage than the current top record, until it becomes 100%.
                     </p>
                     <p>
-                        Submitting a Geneva Record for a level not on the list must abide by the precentage requirements: <br>( Top 75 Pointercrate/AREDL Difficulty ) 5%<br>( Top 150 Pointercrate/AREDL Difficulty ) 10%<br>( Top 400 AREDL Difficulty ) 20%<br>( Outside of Top 400 AREDL Difficulty ) 30%.
+                        Submitting a Geneva Record for a level not on the list must abide by the precentage requirements: <br>( Top 75 Pointercrate/AREDL Difficulty ) 5%<br>( Top 150 Pointercrate/AREDL Difficulty ) 10%<br>( Top 250 AREDL Difficulty ) 15%<br>( Top 400 AREDL Difficulty ) 20%<br>( Outside of Top 400 AREDL Difficulty ) 30%.
                     </p>
                     <p>
                         Any recorsd featuring with an alternate opening that adds extra precentage that happens on Attempt 1 that no other attempt has, such as Nullscapes or Aquamarine, that use such alternative opening to get a higher record will not be accepted.
