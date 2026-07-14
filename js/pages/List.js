@@ -112,7 +112,7 @@ export default {
                         All MAIN LIST Rules apply here.
                     </p>
                     <p>
-                        All levels on this list must be harder than the current Main List Top 1. Levels with a ★ are Legacy levels and are no longer maintained nor are records accepted, Legacy levels were either formerly Top 1 difficulty, or were GDL Verified and became actual Top 1s. Records submitted to levels that are not legacy must be at a higher percentage than the current top record, until it becomes 100%.
+                        New levels to this list must be harder than the current Main List Top 1. Levels with a ★ are Legacy levels and are no longer maintained nor are records accepted, Legacy levels were GDL Verified and became actual Top 1s. Records submitted to levels that are not legacy must be at a higher percentage than the current top record, until it becomes 100%.
                     </p>
                     <p>
                         Submitting a Geneva Record for a level not on the list must abide by the precentage requirements: ( Top 75 Pointercrate/AREDL Difficulty ) 5%, ( Top 150 Pointercrate/AREDL Difficulty ) 10%, ( Top 400 AREDL Difficulty ) 20%, ( Outside of Top 400 AREDL Difficulty ) 30%.
