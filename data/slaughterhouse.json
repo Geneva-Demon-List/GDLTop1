@@ -1,0 +1,20 @@
+{
+    "id": "27690100",
+    "name": "Slaughterhouse",
+    "author": "IceDCave",
+    "creators": ["IceDCave", "More"],
+    "verifier": "Doggie",
+    "gdlverify": "???",
+    "ogverify": "Doggie",
+    "verification": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
+    "percentToQualify": "22",
+    "difficulty": "Extreme Demon",
+    "records": [
+      {
+            "user": "wRocket",
+            "link": "https://youtu.be/ddE14NtKFZE",
+            "percent": 21,
+            "hz": 240
+        }
+    ]
+}
