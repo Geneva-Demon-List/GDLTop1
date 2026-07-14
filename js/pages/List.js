@@ -117,6 +117,9 @@ export default {
                     <p>
                         Submitting a Geneva Record for a level not on the list must abide by the precentage requirements: <br>( Top 75 Pointercrate/AREDL Difficulty ) 5%<br>( Top 150 Pointercrate/AREDL Difficulty ) 10%<br>( Top 400 AREDL Difficulty ) 20%<br>( Outside of Top 400 AREDL Difficulty ) 30%.
                     </p>
+                    <p>
+                        Any recorsd featuring with an alternate opening that adds extra precentage that happens on Attempt 1 that no other attempt has, such as Nullscapes or Aquamarine, that use such alternative opening to get a higher record will not be accepted.
+                    </p>
                 </div>
             </div>
         </main>
