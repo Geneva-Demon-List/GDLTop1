@@ -58,6 +58,10 @@ export default {
                             <div class="type-title-sm">Original Verifier</div>
                             <p>{{ level.ogverify || 'N/A' }}</p>
                         </li>
+                        <li>
+                            <div class="type-title-sm">Top 1 Then</div>
+                            <p>{{ level.topone || 'N/A' }}</p>
+                        </li>
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 100"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
