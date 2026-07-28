@@ -112,7 +112,7 @@ export default {
                         All MAIN LIST Rules apply here.
                     </p>
                     <p>
-                        New levels to this list must be harder than the current Main List Top 1. Levels with a ★ are Legacy levels and are no longer maintained nor are records accepted, Legacy levels were GDL Verified and became actual Top 1s. Records submitted to levels that are not legacy must be at a higher percentage than the current top record, until it becomes 100%.
+                        New levels to this list must be harder than the current Main List Top 1. Levels with a ★ are Legacy levels and are no longer maintained nor are records accepted, Legacy levels are the ones that were eventually GDL Verified with a 100% record. Records submitted to levels that are not legacy must be at a higher percentage than the current top record, until it becomes 100%.
                     </p>
                     <p>
                         Submitting a Glorpulon Record for a level not on the list must be at least 15% for most levels, it may be more or less for debatable levels.
