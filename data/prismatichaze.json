@@ -1,0 +1,21 @@
+{
+    "id": "59899374",
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": [],
+    "verifier": "Moosh",
+    "gdlverify": "???",
+    "ogverify": "Moosh",
+    "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I",
+    "percentToQualify": "21",
+    "difficulty": "Extreme Demon",
+    "topone": "Bloodbath",
+    "records": [
+      {
+            "user": "MrGilFellow",
+            "link": "https://youtu.be/saMH4c4ilo8",
+            "percent": 20,
+            "hz": 240
+        }
+    ]
+}
